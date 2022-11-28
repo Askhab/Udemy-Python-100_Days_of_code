@@ -8,4 +8,4 @@ month = years * 12
 weeks = years * 52
 days = years * 365
 
-print(f"You have {days} days, {weeks} weeks, and {month} month left.")
+print(f"You have {days} days, {weeks} weeks, and {month} months left.")
