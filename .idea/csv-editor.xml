@@ -38,6 +38,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\026 Day - Intermediate - List Comprehension and the NATO Alphabet\50_states.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\026 Day - Intermediate - List Comprehension and the NATO Alphabet\nato_phonetic_alphabet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
