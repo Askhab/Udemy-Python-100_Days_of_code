@@ -66,6 +66,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\032 Day - Intermediate+ - Send Email (smtplib) &amp; Manage Dates (datetime)\birthdays.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
